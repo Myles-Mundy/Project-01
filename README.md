@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Myles Mundy
 
-# Your Github username
+# Myles-Mundy
 
-# List the things you added for points
+# changed the way descriptions worked for a room while waiting, added severall more rooms and endings. 
